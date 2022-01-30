@@ -1,5 +1,7 @@
 # Aegina-CSGO-Visuals
 
+**Warning: ESP may look strange. If you are experiencing this, enter "fps_max [your_refresh_rate]" into the CSGO console.**
+
 ![Imgur Image](https://i.imgur.com/qjdHYWq.png)
 
 Aegina-CSGO-Visuals is a simple CSGO Visual Cheat
