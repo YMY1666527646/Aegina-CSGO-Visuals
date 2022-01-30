@@ -111,7 +111,7 @@ static HRESULT __stdcall Hooks::hkEndScene(IDirect3DDevice9* pDevice){
 		ImGui::Begin("Aegina CSGO Visuals", &ShowMenu, ImGuiWindowFlags_NoResize | ImGuiWindowFlags_NoSavedSettings | ImGuiWindowFlags_AlwaysAutoResize | ImGuiWindowFlags_NoCollapse);
 		ImGui::Image((ImTextureID)Texture::Logo, ImVec2{ 25,25 });
 		ImGui::SameLine();
-		ImGui::Text("Project: https://github.com/jackbail4");
+		ImGui::Text("Project: https://github.com/Jackbail4/Aegina-CSGO-Visuals");
 		ImGui::Separator();
 		Esp::Menu();
 		if (ImGui::BeginTabItem("Other")) {
